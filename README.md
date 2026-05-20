@@ -1,16 +1,34 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# studyflow-ai
+Studyflow AI is an AI-powered productivity assistant designed to help students manage & organize tasks, prioritize assignments, and build better study habits.
 
-Currently, two official plugins are available:
+## Project Goal
+The goal of this project is to practice full-stack software engineering while building a useful student-focused application that integrates AI-assisted features.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## Planned Features
 
-## React Compiler
+- Add, edit, and delete tasks
+- Mark tasks as complete
+- AI-powered task prioritization (by urgency and importance)
+- Use AI to suggest a study plan
+- Display a simple productivity dashboard
+- Save user tasks in postgreSQL database (database storage)
+- Add authentication in StudyFlow2.0
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Tech Stack
+-JavaScript
+-react
+-Node.js
+-PostgreSQL
+-OpenAI API
 
-## Expanding the ESLint configuration
+## Project Status
+Currently in development.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## What I am Learning
+- Full-stack Application structure
+- API design
+- Database integration
+- AI-aasisted development workflows
+- Clean Git and GitHub practices
+
